@@ -2,16 +2,16 @@
   "called": false,
   "titles": [
     {
-      "title": "0-6 months"
+      "title": "3-6 months"
     },
     {
       "title": "6-12 months"
     },
     {
-      "title": "12-18 months"
+      "title": "1-2 Years"
     },
     {
-      "title": "18 months – 2 years"
+      "title": "2-3 years"
     },
     {
       "title": "2-3 years"
@@ -26,77 +26,77 @@
   "lists": [
     [
       {
-        "text": "Lifting Head"
-      },
-      {
-        "text": "Rolling"
-      },
-      {
-        "text": "Sitting (with support)"
+        "text": "Uses both hands to reach for, and grasp, objects. Will occasionally use one hand."
       }
     ],
     [
       {
-        "text": "Crawling on stomach",
+        "text": "Uses pincer grasp with thumb and index finger."
+      },
+      {
+        "text": "Transfers objects from one hand to the other."
+      }
+    ],
+    [
+      {
+        "text": "Picks up small objects quickly using fine pincer grasp.",
         "example": true
       },
       {
-        "text": "Sitting (without support)"
+        "text": "Turns two or three pages of a book at a time"
       },
       {
-        "text": "Stands with support and walks holding on"
+        "text": "Holds pencil at middle or top with whole hand or attempt at thumb and fingers grip"
       },
       {
-        "text": "Rolls a ball"
+        "text": "Scribbles"
+      },
+      {
+        "text": "Beginning to show favoured hand"
       }
     ],
     [
       {
-        "text": "Crawling"
-      },
-      {
-        "text": "Walks alone"
-      }
-    ],
-    [
-      {
-        "text": "Walks smoothly and turns corners",
+        "text": "Holds pencil near point and uses thumb and fingers grip",
         "example": true
       },
       {
-        "text": "Walks upstairs with support"
-      },
-      {
-        "text": "Begins running"
+        "text": "Can turn single pages in a book"
       }
     ],
     [
       {
-        "text": "Walks upstairs without support",
+        "text": "Can use pencil with good control",
         "example": true
       },
       {
-        "text": "Runs safely"
+        "text": "Can string large beads"
       },
       {
-        "text": "Catches using body and arms"
+        "text": "Can snip with toy scissors"
+      },
+      {
+        "text": "Eats without assistance"
       }
     ],
     [
       {
-        "text": "Kicks a ball forwards"
-      },
-      {
-        "text": "Can hop on one foot"
-      }
-    ],
-    [
-      {
-        "text": "Catches using only their hands",
+        "text": "Manipulates clay material (rolls a ball, makes snakes, pancakes)",
         "example": true
       },
       {
-        "text": "Can skip following a demonstration"
+        "text": "Can build a tower of up to ten blocks using both hands cooperatively"
+      },
+      {
+        "text": "Can use pencil with proper grip and control, like an adult and can copy circles"
+      }
+    ],
+    [
+      {
+        "text": "Can draw squares, write the numbers 1-5 and copy letters"
+      },
+      {
+        "text": "Dresses and undresses independently"
       }
     ]
   ]

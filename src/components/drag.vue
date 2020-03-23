@@ -83,7 +83,7 @@
         Reveal answers
       </button>
       <div id="attempts" v-if="answersRevealed == false">
-        <h4>{{ "Attempts Left: " + attempts }}</h4>
+        <!--<h4>{{ "Attempts Left: " + attempts }}</h4>-->
       </div>
     </div>
   </div>
@@ -98,7 +98,7 @@ export default {
   },
   data() {
     return {
-      attempts: 3,
+      attempts: 30,
       dragDisabled: false,
       submit: false,
       answersRevealed: false,
